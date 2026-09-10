@@ -126,4 +126,4 @@ Amazon-Prime-TV-Shows-Dashboard/
 
 This project demonstrates how Tableau can be used to turn streaming-content data into an interactive business intelligence dashboard, making it easier to identify genre patterns, rating distributions, release-year trends, and geographic content patterns.
 
-👤 Author
+
